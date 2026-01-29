@@ -2,9 +2,7 @@
 **Siva-kumar-r16 · he/him**
 
 🎓 College Student | 💻 Aspiring Software Developer  
-📍 India | 🕒 Local Time  
-🕒 **Local Time (IST)**  
-![Time](https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=false&hide=stars,commits,prs,issues,contribs&locale=en)
+📍 India | 🕒 IST (UTC +05:30)
 
 
 ## Connect With Me
