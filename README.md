@@ -3,7 +3,8 @@
 
 🎓 College Student | 💻 Aspiring Software Developer  
 📍 India | 🕒 Local Time  
-![Local Time](https://github-readme-clock.vercel.app/api?username=Siva-kumar-r16&timezone=Asia/Kolkata)
+🕒 **Local Time (IST)**  
+![Time](https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=false&hide=stars,commits,prs,issues,contribs&locale=en)
 
 
 ## Connect With Me
