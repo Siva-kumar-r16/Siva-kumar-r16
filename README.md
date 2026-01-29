@@ -4,10 +4,13 @@
 🎓 College Student | 💻 Aspiring Software Developer  
 📍 India | 🕘 IST (UTC +05:30)
 
-🌐 Portfolio: https://sivakumars-portfolio.netlify.app  
-🐙 GitHub: https://github.com/Siva-kumar-r16  
-💼 LinkedIn: https://www.linkedin.com/in/siva-kumar-r-a90a482b1  
-📸 Instagram: https://instagram.com/sir_sivakumar  
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://sivakumars-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Siva-kumar-r16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siva-kumar-r-a90a482b1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_sivakumar)
+
 
 ---
 
