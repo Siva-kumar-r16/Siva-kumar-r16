@@ -50,7 +50,7 @@ Most of my projects revolve around **education tools, dashboards, web applicatio
 
 ### Mobile & Application Development
 ![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Mobile Apps](https://img.shields.io/badge/Mobile%20App%20Development-000000?style=for-the-badge)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Application%20Development-000000?style=for-the-badge)
 ![Cross Platform](https://img.shields.io/badge/Cross--Platform%20Development-4285F4?style=for-the-badge)
 
 ---
@@ -92,33 +92,28 @@ Most of my projects revolve around **education tools, dashboards, web applicatio
 
 ## Projects
 
-### 📊 Video Game Sales Analytics Dashboard  
-**Repository:** [video-game-sales-analytics]  
+### 📊 [Video Game Sales Analytics Dashboard](https://github.com/Siva-kumar-r16/video-game-sales-analytics)
 - Python-based executive dashboard  
 - Interactive charts and ML-based forecasting  
 
 ---
 
-### 🧠 Word Building App  
-**Repository:** [wordbuilding-app]  
+### 🧠 [Word Building App](https://github.com/Siva-kumar-r16/wordbuilding-app)
 - Vocabulary-building educational application  
 
 ---
 
-### 🍽 Restaurant Management System  
-**Repository:** [restaurant-management-timeless]  
+### 🍽 [Restaurant Management System](https://github.com/Siva-kumar-r16/restaurant-management-timeless)
 - Java-based management system  
 
 ---
 
-### 🎬 Netflix Clone  
-**Repository:** [netflix-clone]  
+### 🎬 [Netflix Clone](https://github.com/Siva-kumar-r16/netflix-clone)
 - Frontend clone using HTML & CSS  
 
 ---
 
-### 🌐 Portfolio Website  
-**Repository:** [Portfolio]  
+### 🌐 [Portfolio Website](https://github.com/Siva-kumar-r16/Portfolio)
 - Personal portfolio website  
 
 ---
