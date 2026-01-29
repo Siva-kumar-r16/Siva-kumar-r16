@@ -98,7 +98,7 @@ Most of my projects revolve around **education tools, dashboards, web applicatio
 
 ---
 
-### 🧠 [Word Building App](https://github.com/Siva-kumar-r16/wordbuilding-app)
+### 🧠 [Word Building App](https://word-building.netlify.app/)
 - Vocabulary-building educational application  
 
 ---
@@ -113,7 +113,7 @@ Most of my projects revolve around **education tools, dashboards, web applicatio
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/Siva-kumar-r16/Portfolio)
+### 🌐 [Portfolio Website](https://sivakumars-portfolio.netlify.app/)
 - Personal portfolio website  
 
 ---
