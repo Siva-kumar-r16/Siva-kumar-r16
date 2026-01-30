@@ -130,10 +130,5 @@ Most of my projects revolve around **education tools, dashboards, web applicatio
 
 ---
 
-## GitHub Stats
-
-![Siva Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=true&theme=default)
-
----
 
 ⭐ *Strong fundamentals today build powerful systems tomorrow.*
