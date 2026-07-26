@@ -1,134 +1,266 @@
-# Siva Kumar 👋  
-**Siva-kumar-r16 · he/him**
+# <h1 align="center">Hi 👋, I'm Siva Kumar</h1>
 
-🎓 College Student | 💻 Aspiring Software Developer  
-📍 India | 🕒 IST (UTC +05:30)
+<h3 align="center">
+Computer Science Engineering Student • Software Developer • Open Source Enthusiast
+</h3>
 
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://sivakumars-portfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Siva-kumar-r16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siva-kumar-r-a90a482b1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_sivakumar)
-
-
----
-
-## About Me
-
-I'm a Computer Science Engineering student who enjoys building practical applications and learning core computer science concepts deeply.
-
-I focus on writing clean logic, understanding fundamentals, and converting ideas into working software.  
-Most of my projects revolve around **education tools, dashboards, web applications, and application-level systems**.
+<p align="center">
+<a href="https://github.com/Siva-kumar-r16">
+<img src="https://komarev.com/ghpvc/?username=Siva-kumar-r16&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+<a href="https://github.com/Siva-kumar-r16?tab=followers">
+<img src="https://img.shields.io/github/followers/Siva-kumar-r16?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Siva-kumar-r16">
+<img src="https://img.shields.io/github/stars/Siva-kumar-r16?affiliations=OWNER&style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-## Tech Stack
+# 💫 About Me
+
+🎓 Computer Science Engineering Student
+
+💻 Passionate about building real-world software solutions
+
+🚀 Interested in Software Engineering, Web Development, Android Development, Data Analytics, Artificial Intelligence, and Machine Learning
+
+📚 Continuously learning through hands-on projects and maintaining active GitHub repositories
+
+🌱 Currently exploring advanced Java, machine learning, backend development, and scalable software architecture
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://sivakumars-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Siva-kumar-r16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/siva-kumar-r-a90a482b1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/sir_sivakumar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript"/>
+
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase"/>
+
+</p>
+
+### Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+</p>
+
+### Databases & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+### Libraries & Technologies
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Tkinter
+* JDBC
+* Responsive Web Design
+* UI/UX Design
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Software Engineering
 
 ---
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge)
-![CSS Animations](https://img.shields.io/badge/CSS%20Animations-563D7C?style=for-the-badge&logo=css3&logoColor=white)
+# 🚀 Featured Public Projects
+
+### 🌐 Portfolio
+
+Responsive personal portfolio showcasing projects, technical skills, and experience.
+
+🔗 https://github.com/Siva-kumar-r16/Portfolio
+
+🌍 https://sivakumars-portfolio.netlify.app/
 
 ---
 
-### Python Libraries & Data Tools
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🎮 Word Building Web App
+
+Interactive browser-based educational game for vocabulary building.
+
+🔗 https://github.com/Siva-kumar-r16/word-building-web-app
+
+🌍 https://word-building.netlify.app/
 
 ---
 
-### Mobile & Application Development
-![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Mobile Apps](https://img.shields.io/badge/Mobile%20Application%20Development-000000?style=for-the-badge)
-![Cross Platform](https://img.shields.io/badge/Cross--Platform%20Development-4285F4?style=for-the-badge)
+### 🌐 Word Building Website
+
+Official landing website for the Word Building project.
+
+🔗 https://github.com/Siva-kumar-r16/Word-building-website
+
+🌍 https://web-word-building.netlify.app/
 
 ---
 
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![RDBMS](https://img.shields.io/badge/RDBMS-003B57?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge)
+### 📱 Word Building Android App
+
+Android application designed to improve vocabulary through interactive gameplay.
+
+🔗 https://github.com/Siva-kumar-r16/wordbuilding-app
 
 ---
 
-### Computer Science Fundamentals
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F6FEB?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-2C2C2C?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven%20Architecture-6E40C9?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0052CC?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile%20Development-2496ED?style=for-the-badge)
+### 📊 Video Game Sales Analytics Dashboard
+
+Python-based executive dashboard featuring interactive visualizations and machine learning-based forecasting.
+
+🔗 https://github.com/Siva-kumar-r16/video-game-sales-analytics
 
 ---
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🎓 Panimalar Engineering College Website Redesign
+
+A modern responsive redesign concept created to enhance usability and user experience.
+
+🔗 https://github.com/Siva-kumar-r16/panimalar-redesign
 
 ---
 
-### Other Skills
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Chatbot](https://img.shields.io/badge/Chatbot%20Development-0A66C2?style=for-the-badge)
-![Web Apps](https://img.shields.io/badge/Web%20Application%20Development-4CAF50?style=for-the-badge)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+### 🍽 Restaurant Management System
+
+Java desktop application for restaurant operations and management.
+
+🔗 https://github.com/Siva-kumar-r16/restaurant-management-timeless
 
 ---
 
-## Projects
+### 🎬 Netflix Clone
 
-### 📊 [Video Game Sales Analytics Dashboard](https://github.com/Siva-kumar-r16/video-game-sales-analytics)
-- Python-based executive dashboard  
-- Interactive charts and ML-based forecasting  
+Responsive front-end clone built using HTML, CSS, and JavaScript.
 
----
-
-### 🧠 [Word Building App](https://word-building.netlify.app/)
-- Vocabulary-building educational application  
+🔗 https://github.com/Siva-kumar-r16/netflix-clone
 
 ---
 
-### 🍽 [Restaurant Management System](https://github.com/Siva-kumar-r16/restaurant-management-timeless)
-- Java-based management system  
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-kumar-r16&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🎬 [Netflix Clone](https://github.com/Siva-kumar-r16/netflix-clone)
-- Frontend clone using HTML & CSS  
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Siva-kumar-r16&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🌐 [Portfolio Website](https://sivakumars-portfolio.netlify.app/)
-- Personal portfolio website  
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-kumar-r16&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## Currently Learning
-- Data Structures & Algorithms  
-- Advanced Java  
-- Firebase Backend  
-- Clean Code Practices  
+# 🏆 GitHub Profile Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Siva-kumar-r16&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
 
 ---
 
+# 📚 Currently Learning
 
-⭐ *Strong fundamentals today build powerful systems tomorrow.*
+* Advanced Java
+* Machine Learning
+* Firebase Backend Development
+* Software Architecture
+* Clean Code Practices
+* Data Structures & Algorithms
+
+---
+
+# 🎯 Areas of Interest
+
+* Software Development
+* Full-Stack Web Development
+* Android Development
+* Machine Learning
+* Artificial Intelligence
+* Data Analytics
+* Educational Technology
+* UI/UX Design
+
+---
+
+# ⚡ GitHub Activity
+
+I actively use GitHub to build projects, improve existing applications, explore new technologies, and document my work. My repositories include educational applications, web platforms, analytics dashboards, Android applications, machine learning projects, and software engineering experiments, reflecting continuous learning and consistent development.
+
+---
+
+<p align="center">
+
+### ⭐ "Strong fundamentals build reliable software, and continuous learning builds great developers."
+
+</p>
