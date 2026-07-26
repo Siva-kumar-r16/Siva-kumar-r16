@@ -351,4 +351,3 @@ I actively use GitHub to design, build, maintain, and improve software projects.
 
 </p>
 ```
-s
