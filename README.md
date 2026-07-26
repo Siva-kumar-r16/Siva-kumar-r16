@@ -1,19 +1,29 @@
-# <h1 align="center">Hi 👋, I'm Siva Kumar</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Siva Kumar</h1>
 
 <h3 align="center">
 Computer Science Engineering Student • Software Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
+Building practical software • Learning continuously • Sharing projects through GitHub
+</p>
+
+<p align="center">
 <a href="https://github.com/Siva-kumar-r16">
-<img src="https://komarev.com/ghpvc/?username=Siva-kumar-r16&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Siva-kumar-r16&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Siva-kumar-r16?tab=followers">
-<img src="https://img.shields.io/github/followers/Siva-kumar-r16?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/Siva-kumar-r16?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://github.com/Siva-kumar-r16">
-<img src="https://img.shields.io/github/stars/Siva-kumar-r16?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Siva-kumar-r16?affiliations=OWNER&style=for-the-badge"/>
 </a>
+
+<img src="https://img.shields.io/github/last-commit/Siva-kumar-r16/Portfolio?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -22,13 +32,27 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate about building real-world software solutions
+💻 Passionate about developing real-world software solutions.
 
-🚀 Interested in Software Engineering, Web Development, Android Development, Data Analytics, Artificial Intelligence, and Machine Learning
+🚀 Interested in
 
-📚 Continuously learning through hands-on projects and maintaining active GitHub repositories
+- Software Engineering
+- Web Development
+- Android Development
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
 
-🌱 Currently exploring advanced Java, machine learning, backend development, and scalable software architecture
+🌱 Currently learning
+
+- Advanced Java
+- Firebase
+- Machine Learning
+- Data Structures & Algorithms
+- Software Architecture
+- Clean Code Practices
+
+📚 I actively build projects and continuously improve them through GitHub.
 
 ---
 
@@ -58,7 +82,7 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Languages
 
 <p>
 
@@ -66,7 +90,9 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 </p>
 
-### Web Development
+---
+
+## Web Technologies
 
 <p>
 
@@ -74,7 +100,9 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 </p>
 
-### Mobile Development
+---
+
+## Mobile Development
 
 <p>
 
@@ -82,7 +110,9 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 </p>
 
-### Databases & Backend
+---
+
+## Databases & Backend
 
 <p>
 
@@ -90,7 +120,9 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 </p>
 
-### Tools
+---
+
+## Development Tools
 
 <p>
 
@@ -98,92 +130,110 @@ Computer Science Engineering Student • Software Developer • Open Source Enth
 
 </p>
 
-### Libraries & Technologies
+---
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Tkinter
-* JDBC
-* Responsive Web Design
-* UI/UX Design
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Software Engineering
+## Libraries & Technologies
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Tkinter
+- JDBC
+- Responsive Web Design
+- UI / UX Design
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Engineering
 
 ---
 
-# 🚀 Featured Public Projects
+# 🚀 Featured Projects
 
 ### 🌐 Portfolio
 
-Responsive personal portfolio showcasing projects, technical skills, and experience.
+Personal portfolio showcasing my projects, technical skills, and achievements.
 
-🔗 https://github.com/Siva-kumar-r16/Portfolio
+🔗 Repository  
+https://github.com/Siva-kumar-r16/Portfolio
 
-🌍 https://sivakumars-portfolio.netlify.app/
+🌍 Live Website  
+https://sivakumars-portfolio.netlify.app/
 
 ---
 
 ### 🎮 Word Building Web App
 
-Interactive browser-based educational game for vocabulary building.
+Browser-based educational vocabulary game.
 
-🔗 https://github.com/Siva-kumar-r16/word-building-web-app
+🔗 Repository  
+https://github.com/Siva-kumar-r16/word-building-web-app
 
-🌍 https://word-building.netlify.app/
+🌍 Live Website  
+https://word-building.netlify.app/
 
 ---
 
 ### 🌐 Word Building Website
 
-Official landing website for the Word Building project.
+Official website for the Word Building project.
 
-🔗 https://github.com/Siva-kumar-r16/Word-building-website
+🔗 Repository  
+https://github.com/Siva-kumar-r16/Word-building-website
 
-🌍 https://web-word-building.netlify.app/
+🌍 Live Website  
+https://web-word-building.netlify.app/
 
 ---
 
 ### 📱 Word Building Android App
 
-Android application designed to improve vocabulary through interactive gameplay.
+Educational Android application for vocabulary learning.
 
-🔗 https://github.com/Siva-kumar-r16/wordbuilding-app
+🔗 Repository
+
+https://github.com/Siva-kumar-r16/wordbuilding-app
 
 ---
 
 ### 📊 Video Game Sales Analytics Dashboard
 
-Python-based executive dashboard featuring interactive visualizations and machine learning-based forecasting.
+Executive dashboard built using Python featuring interactive visualizations and machine learning forecasting.
 
-🔗 https://github.com/Siva-kumar-r16/video-game-sales-analytics
+🔗 Repository
+
+https://github.com/Siva-kumar-r16/video-game-sales-analytics
 
 ---
 
 ### 🎓 Panimalar Engineering College Website Redesign
 
-A modern responsive redesign concept created to enhance usability and user experience.
+Modern responsive redesign concept.
 
-🔗 https://github.com/Siva-kumar-r16/panimalar-redesign
+🔗 Repository
+
+https://github.com/Siva-kumar-r16/panimalar-redesign
 
 ---
 
 ### 🍽 Restaurant Management System
 
-Java desktop application for restaurant operations and management.
+Java desktop application for restaurant management.
 
-🔗 https://github.com/Siva-kumar-r16/restaurant-management-timeless
+🔗 Repository
+
+https://github.com/Siva-kumar-r16/restaurant-management-timeless
 
 ---
 
 ### 🎬 Netflix Clone
 
-Responsive front-end clone built using HTML, CSS, and JavaScript.
+Responsive front-end clone using HTML, CSS and JavaScript.
 
-🔗 https://github.com/Siva-kumar-r16/netflix-clone
+🔗 Repository
+
+https://github.com/Siva-kumar-r16/netflix-clone
 
 ---
 
@@ -191,9 +241,9 @@ Responsive front-end clone built using HTML, CSS, and JavaScript.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siva-kumar-r16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-kumar-r16&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-kumar-r16&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -209,6 +259,26 @@ Responsive front-end clone built using HTML, CSS, and JavaScript.
 
 ---
 
+# 📈 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva-kumar-r16&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siva-kumar-r16&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siva-kumar-r16&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siva-kumar-r16&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
 # 📊 Contribution Graph
 
 <p align="center">
@@ -219,11 +289,11 @@ Responsive front-end clone built using HTML, CSS, and JavaScript.
 
 ---
 
-# 🏆 GitHub Profile Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siva-kumar-r16&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siva-kumar-r16&theme=algolia&no-frame=true&column=4&margin-w=10"/>
 
 </p>
 
@@ -231,36 +301,53 @@ Responsive front-end clone built using HTML, CSS, and JavaScript.
 
 # 📚 Currently Learning
 
-* Advanced Java
-* Machine Learning
-* Firebase Backend Development
-* Software Architecture
-* Clean Code Practices
-* Data Structures & Algorithms
+- Advanced Java
+- Machine Learning
+- Firebase Backend Development
+- Software Architecture
+- Data Structures & Algorithms
+- Clean Code Practices
 
 ---
 
 # 🎯 Areas of Interest
 
-* Software Development
-* Full-Stack Web Development
-* Android Development
-* Machine Learning
-* Artificial Intelligence
-* Data Analytics
-* Educational Technology
-* UI/UX Design
+- Software Development
+- Full-Stack Web Development
+- Android Development
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Educational Technology
+- UI / UX Design
 
 ---
 
 # ⚡ GitHub Activity
 
-I actively use GitHub to build projects, improve existing applications, explore new technologies, and document my work. My repositories include educational applications, web platforms, analytics dashboards, Android applications, machine learning projects, and software engineering experiments, reflecting continuous learning and consistent development.
+I actively use GitHub to design, build, maintain, and improve software projects. My repositories showcase work across web development, Android applications, Python analytics, educational software, UI redesign, and machine learning. I regularly update projects, improve documentation, and explore new technologies through practical implementations.
+
+---
+
+# 📌 Pinned Projects
+
+⭐ Portfolio
+
+⭐ Word Building Web App
+
+⭐ Video Game Sales Analytics Dashboard
+
+⭐ Panimalar Engineering College Website Redesign
+
+⭐ Restaurant Management System
+
+⭐ Word Building Android App
 
 ---
 
 <p align="center">
 
-### ⭐ "Strong fundamentals build reliable software, and continuous learning builds great developers."
+### 💡 "Strong fundamentals build reliable software, and continuous learning creates better developers."
 
 </p>
+```
