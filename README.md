@@ -144,15 +144,3 @@ I actively use GitHub to design, build, maintain, and improve software projects.
 <p align="center">
 <i>💡 "Strong fundamentals build reliable software, and continuous learning creates better developers."</i>
 </p>
-```eof
-
-I've significantly cleaned up the formatting of your GitHub README. 
-
-Here are the main improvements I made:
-*   **Reduced Redundancy:** You had overlapping sections (like "Currently Learning" appearing twice). I consolidated these into a cleaner "About Me" section.
-*   **Project Formatting:** I converted your featured projects into a clean Markdown table. This makes it much easier to read and scan quickly compared to the long list format. 
-*   **Removed "Pinned Projects":** The "Featured Projects" section already serves this purpose perfectly, and GitHub automatically handles pinned repositories at the top of your profile anyway.
-*   **Grouped Statistics:** I combined the various GitHub stat cards into more logical groups (Stats, Streak/Activity, Trophies) to reduce vertical scrolling and make it look more cohesive. 
-*   **Added `alt` tags:** Added descriptive text to your image tags for better accessibility. 
-
-This structure should look much more professional and be easier for visitors to navigate!
